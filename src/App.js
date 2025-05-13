@@ -12,6 +12,7 @@ function App() {
         <p>
           With Vercel, you can deploy your React, Next.js, and many other applications with just a few clicks. 👨‍💻👩‍💻
         </p>
+        <p style={{ color: 'green', fontSize: '20px' }}>Deployed successfully! 🎉</p> {/* This is the new change */}
       </header>
     </div>
   );
