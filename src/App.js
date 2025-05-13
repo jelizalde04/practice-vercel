@@ -1,0 +1,20 @@
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>What is Vercel? 🚀</h1>
+        <p>
+          Vercel is a platform optimized for deploying web applications. It's incredibly easy to use and allows automatic deployments from Git repositories. Vercel provides serverless infrastructure, so you can focus on building your application without worrying about server configurations. 🌐
+        </p>
+        <p>
+          With Vercel, you can deploy your React, Next.js, and many other applications with just a few clicks. 👨‍💻👩‍💻
+        </p>
+      </header>
+    </div>
+  );
+}
+
+export default App;
