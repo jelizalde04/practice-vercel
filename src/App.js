@@ -14,6 +14,8 @@ function App() {
 
           I MADE A CHANGE
 
+          PROGRAMACION DISTRIBUIDA
+
         
         </p>
         <p style={{ color: 'green', fontSize: '20px' }}>Deployed successfully! 🎉</p> {/* This is the new change */}
